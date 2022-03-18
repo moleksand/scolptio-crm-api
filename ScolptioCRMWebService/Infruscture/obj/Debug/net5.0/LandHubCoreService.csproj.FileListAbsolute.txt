@@ -1,0 +1,15 @@
+D:\LandHub\Api\LandHubWebService\Infruscture\bin\Debug\net5.0\LandHubCoreService.deps.json
+D:\LandHub\Api\LandHubWebService\Infruscture\bin\Debug\net5.0\LandHubCoreService.dll
+D:\LandHub\Api\LandHubWebService\Infruscture\bin\Debug\net5.0\ref\LandHubCoreService.dll
+D:\LandHub\Api\LandHubWebService\Infruscture\bin\Debug\net5.0\LandHubCoreService.pdb
+D:\LandHub\Api\LandHubWebService\Infruscture\bin\Debug\net5.0\Domains.dll
+D:\LandHub\Api\LandHubWebService\Infruscture\bin\Debug\net5.0\Domains.pdb
+D:\LandHub\Api\LandHubWebService\Infruscture\obj\Debug\net5.0\LandHubCoreService.csprojAssemblyReference.cache
+D:\LandHub\Api\LandHubWebService\Infruscture\obj\Debug\net5.0\LandHubCoreService.GeneratedMSBuildEditorConfig.editorconfig
+D:\LandHub\Api\LandHubWebService\Infruscture\obj\Debug\net5.0\LandHubCoreService.AssemblyInfoInputs.cache
+D:\LandHub\Api\LandHubWebService\Infruscture\obj\Debug\net5.0\LandHubCoreService.AssemblyInfo.cs
+D:\LandHub\Api\LandHubWebService\Infruscture\obj\Debug\net5.0\LandHubCoreService.csproj.CoreCompileInputs.cache
+D:\LandHub\Api\LandHubWebService\Infruscture\obj\Debug\net5.0\LandHubCoreService.csproj.CopyComplete
+D:\LandHub\Api\LandHubWebService\Infruscture\obj\Debug\net5.0\LandHubCoreService.dll
+D:\LandHub\Api\LandHubWebService\Infruscture\obj\Debug\net5.0\ref\LandHubCoreService.dll
+D:\LandHub\Api\LandHubWebService\Infruscture\obj\Debug\net5.0\LandHubCoreService.pdb

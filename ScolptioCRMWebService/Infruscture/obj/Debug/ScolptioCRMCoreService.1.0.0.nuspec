@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ScolptioCRMCoreService</id>
+    <version>1.0.0</version>
+    <authors>ScolptioCRMCoreService</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Commands" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Domains" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="AutoMapper" version="10.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Authentication.JwtBearer" version="5.0.6" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.IdentityModel.Tokens" version="6.11.1" exclude="Build,Analyzers" />
+        <dependency id="MongoDB.Driver" version="2.12.4" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+        <dependency id="RestSharp" version="106.12.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\Scolpito\API\ScolptioCRMWebService\Infruscture\bin\Debug\net5.0\ScolptioCRMCoreService.dll" target="lib\net5.0\ScolptioCRMCoreService.dll" />
+  </files>
+</package>

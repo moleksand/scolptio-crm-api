@@ -1,0 +1,17 @@
+D:\Scolpito\API\ScolptioCRMWebService\Infruscture\bin\Debug\net5.0\ScolptioCRMCoreService.deps.json
+D:\Scolpito\API\ScolptioCRMWebService\Infruscture\bin\Debug\net5.0\ScolptioCRMCoreService.dll
+D:\Scolpito\API\ScolptioCRMWebService\Infruscture\bin\Debug\net5.0\ref\ScolptioCRMCoreService.dll
+D:\Scolpito\API\ScolptioCRMWebService\Infruscture\bin\Debug\net5.0\ScolptioCRMCoreService.pdb
+D:\Scolpito\API\ScolptioCRMWebService\Infruscture\bin\Debug\net5.0\Commands.dll
+D:\Scolpito\API\ScolptioCRMWebService\Infruscture\bin\Debug\net5.0\Domains.dll
+D:\Scolpito\API\ScolptioCRMWebService\Infruscture\bin\Debug\net5.0\Commands.pdb
+D:\Scolpito\API\ScolptioCRMWebService\Infruscture\bin\Debug\net5.0\Domains.pdb
+D:\Scolpito\API\ScolptioCRMWebService\Infruscture\obj\Debug\net5.0\ScolptioCRMCoreService.csprojAssemblyReference.cache
+D:\Scolpito\API\ScolptioCRMWebService\Infruscture\obj\Debug\net5.0\ScolptioCRMCoreService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Scolpito\API\ScolptioCRMWebService\Infruscture\obj\Debug\net5.0\ScolptioCRMCoreService.AssemblyInfoInputs.cache
+D:\Scolpito\API\ScolptioCRMWebService\Infruscture\obj\Debug\net5.0\ScolptioCRMCoreService.AssemblyInfo.cs
+D:\Scolpito\API\ScolptioCRMWebService\Infruscture\obj\Debug\net5.0\ScolptioCRMCoreService.csproj.CoreCompileInputs.cache
+D:\Scolpito\API\ScolptioCRMWebService\Infruscture\obj\Debug\net5.0\ScolptioCRMCoreService.csproj.CopyComplete
+D:\Scolpito\API\ScolptioCRMWebService\Infruscture\obj\Debug\net5.0\ScolptioCRMCoreService.dll
+D:\Scolpito\API\ScolptioCRMWebService\Infruscture\obj\Debug\net5.0\ref\ScolptioCRMCoreService.dll
+D:\Scolpito\API\ScolptioCRMWebService\Infruscture\obj\Debug\net5.0\ScolptioCRMCoreService.pdb
