@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "PropertyHatchService": {
+    "ScolpitoService": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",

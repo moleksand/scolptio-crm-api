@@ -45,3 +45,4 @@ D:\Scolpito\API\ScolptioCRMWebService\Domain\obj\Debug\net5.0\Domains.csproj.Cor
 D:\Scolpito\API\ScolptioCRMWebService\Domain\obj\Debug\net5.0\Domains.dll
 D:\Scolpito\API\ScolptioCRMWebService\Domain\obj\Debug\net5.0\ref\Domains.dll
 D:\Scolpito\API\ScolptioCRMWebService\Domain\obj\Debug\net5.0\Domains.pdb
+D:\Scolpito\API\ScolptioCRMWebService\Domain\obj\Debug\net5.0\Domains.csprojAssemblyReference.cache
